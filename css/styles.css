@@ -85,6 +85,7 @@ a:hover {
   float: left;
   margin-right: 30px;
   margin-bottom: 80px;
+  margin-top: 40px;
 }
 
 .fitness-photo {
@@ -92,6 +93,7 @@ a:hover {
   float: right;
   margin-left: 30px;
   margin-bottom: 80px;
+  margin-top: 40px;
 }
 .intro {
   width: 30%;
